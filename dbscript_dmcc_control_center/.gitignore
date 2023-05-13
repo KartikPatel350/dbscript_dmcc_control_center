@@ -1,0 +1,14 @@
+/.metadata/
+target
+
+.factorypath
+.gradle
+.idea
+.metadata
+.recommenders
+.settings
+bin/
+.classpath
+.DS_Store
+.project
+resources/logback-spring.xml
